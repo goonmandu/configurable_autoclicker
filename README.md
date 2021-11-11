@@ -2,7 +2,7 @@
 
 stupid shit i made in like 1 minute.
 
-start the script, and minimize it. after 5 seconds the script will ~~b̵̧̝̫͠e̸̯͇̻̅̍̂͒c̸̠̱̝̃̆o̴͙͌͠m̸͔̮̪̓̋̐e̷͎͉̪̐̇ ̵͚͔͓́ṡ̵̈́̎̈́͜ḛ̷̛̱̳͉ṇ̴̓t̶͕̫̤͑̿i̷̖͆e̷̳͆̓n̶̛̬̒t̶̞̃ ̷̓̚͜a̶̰͆͝͝͝n̴̜͙̎̿͜d̷̖̹͔̼̈ ̷͈͉̓̑ḑ̴̬̏͊ë̶͍͓́͒s̴̤̺̐̎t̶̰̏̽͝r̶̻̞̃̌̈ȯ̸̱̪͑̈ý̴̙͉͎͓̊ ̶̣͓̀̐͂̋ṯ̶̈͝h̷͉̳̻͒̏̈́͘e̴̗̓ ̴̢̻͚̲͋r̸̮̜͈̈́͆͋̄ë̶̺́ş̸̨͍͆̅͂t̷͖̥̗̎ ̷͚̇͊o̴͎̠̗̒̿̉f̴̞̈́̇́̕ͅ ̷̦͠h̷̩͔̾̂ų̸͖̘̅̾̃͝ͅm̶̘͖̅̋á̶̢̬̱̫̋̏̆n̶̨̛̮̘͗ỉ̶̪̪̇̉́t̸͇̤̖́̓͜y̸̪̌͑̇̇~~ start.
+start the script, and minimize it (or not. i honestly dont care). after 5 seconds the script will ~~b̵̧̝̫͠e̸̯͇̻̅̍̂͒c̸̠̱̝̃̆o̴͙͌͠m̸͔̮̪̓̋̐e̷͎͉̪̐̇ ̵͚͔͓́ṡ̵̈́̎̈́͜ḛ̷̛̱̳͉ṇ̴̓t̶͕̫̤͑̿i̷̖͆e̷̳͆̓n̶̛̬̒t̶̞̃ ̷̓̚͜a̶̰͆͝͝͝n̴̜͙̎̿͜d̷̖̹͔̼̈ ̷͈͉̓̑ḑ̴̬̏͊ë̶͍͓́͒s̴̤̺̐̎t̶̰̏̽͝r̶̻̞̃̌̈ȯ̸̱̪͑̈ý̴̙͉͎͓̊ ̶̣͓̀̐͂̋ṯ̶̈͝h̷͉̳̻͒̏̈́͘e̴̗̓ ̴̢̻͚̲͋r̸̮̜͈̈́͆͋̄ë̶̺́ş̸̨͍͆̅͂t̷͖̥̗̎ ̷͚̇͊o̴͎̠̗̒̿̉f̴̞̈́̇́̕ͅ ̷̦͠h̷̩͔̾̂ų̸͖̘̅̾̃͝ͅm̶̘͖̅̋á̶̢̬̱̫̋̏̆n̶̨̛̮̘͗ỉ̶̪̪̇̉́t̸͇̤̖́̓͜y̸̪̌͑̇̇~~ start.
 
 default configurations:
 
